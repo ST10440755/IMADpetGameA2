@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnFeed" type="id"/>
+    <item name="btnClean" type="id"/>
+    <item name="btnPlay" type="id"/>
+    <item name="textViewHungerLevel" type="id"/>
+    <item name="textViewCleanlinessLevel" type="id"/>
+    <item name="textViewHappinessLevel" type="id"/>
+</resources>
+

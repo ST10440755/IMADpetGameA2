@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PetGameA2</string>
+    <string name="FEED">Feed</string>
+    <string name="CLEAN">Clean</string>
+    <string name="PLAY">Play</string>
+    <string name="feedPOINTS">FeedStatus</string>
+    <string name="cleanPOINTS">CleanStatus</string>
+    <string name="playPOINTS">PlayStatus</string>
+    <string name="TextView">\@string</string>
+    <string name="textview">\@string\n</string>
+    <string name="welcome_to_the_home_of_kung_fu_panda">\@string\n</string>
+    <string name="start_game">\@string</string>
+</resources>
